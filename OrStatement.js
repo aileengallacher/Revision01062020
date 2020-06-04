@@ -29,7 +29,6 @@
 let firstSnack = 0; // "fruit";
 let secondSnack = false //"cookies";
 let thirdSnack = null //"chocolate";
-let fourthSnack = undefined //"lollies";
 
 let whatToEat = firstSnack || secondSnack || thirdSnack || fourthSnack || "Just go for a walk";
 
